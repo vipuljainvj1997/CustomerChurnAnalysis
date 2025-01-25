@@ -10,7 +10,8 @@ The project focuses on analyzing the customer behavior to ideantify patterns lea
 - <b>Python</b> 
 - <b>Matplotlib</b>
 - <b>Seaborn</b>
-- <b>Decision Trees</b>
+- <b>SMOTE</b>
+- <b>Random Forest</b>
 
 <h2>Environments Used </h2>
 
